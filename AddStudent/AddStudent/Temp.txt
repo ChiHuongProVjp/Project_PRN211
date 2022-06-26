@@ -1,0 +1,13 @@
+1|Luu Tien Dat|12 Sep 1999|SE|50|2018
+2|Luu Minh Quan|14 Sep 2000|IA|45.5|2019
+3|Bui Thi Trang|09 Oct 2000|GD|0|2018
+4|Tran Thu Trang|27 Sep 2001|SE|0|2019
+5|Bui Ngoc Tram|20 Nov 2000|IA|20|2017
+6|Vu Nguyen Minh thu|05 Nov 2000|SE|20|2014
+7|Dat|18 Jun 2022|IA|40|2012
+8|Dat|18 Jun 2022|IA|40|2012
+9|fgb|18 Jun 2022|TE|40|2078
+10|fgb|18 Jun 2022|TE|40|2078
+11|fgb|18 Jun 2022|TE|40|2078
+12|sgbg|13 Jun 2022|DE|436|43
+

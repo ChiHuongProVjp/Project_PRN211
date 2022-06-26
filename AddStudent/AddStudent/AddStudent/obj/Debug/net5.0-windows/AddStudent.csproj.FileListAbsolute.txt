@@ -1,0 +1,72 @@
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.exe
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.deps.json
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.json
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.dll
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.pdb
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.Form1.resources
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.GenerateResource.cache
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.dll
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\refint\AddStudent.dll
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.pdb
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\ref\AddStudent.dll
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.exe
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.deps.json
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.json
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.dev.json
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.dll
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.pdb
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.AssemblyReference.cache
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.Form1.resources
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.GenerateResource.cache
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfoInputs.cache
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfo.cs
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.CoreCompileInputs.cache
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.dll
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\refint\AddStudent.dll
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.pdb
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.genruntimeconfig.cache
+C:\Users\Luu Dat\OneDrive - NVC\Desktop\PRN211\AddStudent\AddStudent\obj\Debug\net5.0-windows\ref\AddStudent.dll
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.exe
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.deps.json
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.json
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.dev.json
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.dll
+D:\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.pdb
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.AssemblyReference.cache
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.Form1.resources
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.GenerateResource.cache
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfoInputs.cache
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfo.cs
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.CoreCompileInputs.cache
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.dll
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\refint\AddStudent.dll
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.pdb
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.genruntimeconfig.cache
+D:\AddStudent\AddStudent\obj\Debug\net5.0-windows\ref\AddStudent.dll
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.exe
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.deps.json
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.json
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.dll
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\bin\Debug\net5.0-windows\AddStudent.pdb
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.Form1.resources
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.dll
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\refint\AddStudent.dll
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.pdb
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\AddStudent.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PRN211\AddStudent\AddStudent\AddStudent\obj\Debug\net5.0-windows\ref\AddStudent.dll
